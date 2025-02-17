@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="jeli-jawi.svg"
+   inkscape:export-filename="./light-profile.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.37018826"
+     inkscape:cx="664.52675"
+     inkscape:cy="432.21252"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g292" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect2072"
+     style="display:none;fill:#cc0000;fill-opacity:0.988235;stroke-width:0.287772"
+     d="M 1.1245984e-6,8.9944291e-7 H 285.75001 V 285.75 H 1.1245984e-6 Z"
+     inkscape:label="bg" />
+  <g
+     inkscape:label="jeli-amiri"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none"
+     inkscape:export-filename="../jeli_react/src/llogo.svg"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <text
+       xml:space="preserve"
+       style="font-size:194.423px;display:inline;fill:#000000;fill-opacity:1;stroke-width:16.202"
+       x="26.336414"
+       y="144.63924"
+       id="text3756"
+       transform="scale(0.9518934,1.0505378)"
+       inkscape:label="jeli-dark"
+       sodipodi:insensitive="true"><tspan
+         id="tspan3754"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Amiri;-inkscape-font-specification:Amiri;fill:#000000;fill-opacity:1;stroke-width:16.202"
+         x="26.336414"
+         y="144.63924"
+         sodipodi:role="line">جلي</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:194.423px;display:none;fill:#ffffff;fill-opacity:1;stroke-width:16.202"
+       x="26.336414"
+       y="144.63924"
+       id="text5440"
+       transform="scale(0.9518934,1.0505378)"
+       inkscape:label="jeli-light"
+       sodipodi:insensitive="true"><tspan
+         id="tspan5438"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Amiri;-inkscape-font-specification:Amiri;fill:#ffffff;fill-opacity:1;stroke-width:16.202"
+         x="0"
+         y="0"
+         sodipodi:role="line">جلي</tspan></text>
+  </g>
+  <g
+     inkscape:label="jeli-amiri-profile"
+     inkscape:groupmode="layer"
+     id="g292"
+     style="display:inline"
+     inkscape:export-filename="../jeli_react/src/llogo.svg"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     transform="matrix(0.85000004,0,0,0.85000004,10.84791,10.847908)">
+    <text
+       xml:space="preserve"
+       style="font-size:194.423px;display:none;fill:#000000;fill-opacity:1;stroke-width:16.202"
+       x="26.336414"
+       y="144.63924"
+       id="text286"
+       transform="scale(0.9518934,1.0505378)"
+       inkscape:label="jeli-dark"
+       sodipodi:insensitive="true"><tspan
+         id="tspan284"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Amiri;-inkscape-font-specification:Amiri;fill:#000000;fill-opacity:1;stroke-width:16.202"
+         x="26.336414"
+         y="144.63924"
+         sodipodi:role="line">جلي</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:194.423px;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:16.202"
+       x="26.336414"
+       y="144.63924"
+       id="text290"
+       transform="scale(0.9518934,1.0505378)"
+       inkscape:label="jeli-light"
+       sodipodi:insensitive="true"><tspan
+         id="tspan288"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Amiri;-inkscape-font-specification:Amiri;fill:#ffffff;fill-opacity:1;stroke-width:16.202"
+         x="0"
+         y="0"
+         sodipodi:role="line">جلي</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="kelantan"
+     transform="matrix(0.75297614,0,0,0.75297614,35.494563,243.53934)"
+     style="display:none">
+    <g
+       id="g1290"
+       transform="translate(-235.81445,-243.0627)">
+      <path
+         id="path22"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.352778"
+         d="m 233.2717,-43.151042 -1.07597,0.977194 c -7.11906,7.119056 -11.52172,16.9545 -11.52172,27.820056 0,21.7311113 17.61067,39.345306 39.33825,39.345306 21.72758,0 39.33825,-17.6141947 39.33825,-39.345306 0,-10.865556 -4.40267,-20.701 -11.52172,-27.820056 l -1.07598,-0.977194 0.51506,0.310444 c 12.96458,8.763 21.49122,23.600834 21.49122,40.4283339 0,26.9275281 -21.82636,48.7538891 -48.74683,48.7538891 -26.92047,0 -48.74684,-21.826361 -48.74684,-48.7538891 0,-16.8274999 8.52664,-31.6653339 21.49123,-40.4283339 z" />
+      <path
+         id="path24"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.352778"
+         d="m 242.71909,-43.292153 h 13.21153 l 4.08164,-13.193889 4.08164,13.193889 h 13.21153 l -10.68917,8.156222 4.08517,13.193889 -10.68917,-8.156222 -10.68917,8.156222 4.08517,-13.193889 z" />
+      <path
+         id="path26"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.352778"
+         d="m 235.56476,12.898292 h 4.27567 v -73.617668 h -4.27567 z" />
+      <path
+         id="path28"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.352778"
+         d="m 280.18409,12.898292 h 4.27567 v -73.617668 h -4.27567 z" />
+      <path
+         id="path50"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.352778"
+         d="m 233.15176,-69.969209 4.572,-9.249833 4.572,9.249833 -4.572,9.249833 z" />
+      <path
+         id="path52"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.352778"
+         d="m 277.72876,-69.969209 4.572,-9.249833 4.572,9.249833 -4.572,9.249833 z" />
+      <path
+         id="path54"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.352778"
+         d="m 198.26204,-54.623376 c 4.46263,-0.07055 9.27452,2.801056 13.93472,6.441723 l 2.55411,2.0955 5.84553,-5.11175 c 0.61736,5.252861 -0.27164,9.49325 2.77636,12.551833 13.70894,13.761861 32.43086,32.6001948 34.925,39.8603615 -8.37847,-1.59455555 -32.07809,-26.0138335 -42.21339,-31.6265275 -5.22464,-2.896306 -12.30489,-0.504473 -19.99545,0.635 l 12.49187,-10.918473 -1.06539,-1.520472 c -4.20159,-4.543778 -11.43,-3.760611 -14.6932,0.123472 -0.17286,-1.9685 -1.91558,-5.623278 -3.78178,-6.466416 2.7305,-4.293306 5.87728,-6.007806 9.22162,-6.064251 z" />
+      <path
+         id="path56"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.352778"
+         d="m 322.05881,-54.623376 c -4.46263,-0.07055 -9.27452,2.801056 -13.93472,6.434667 l -2.55411,2.0955 -5.84553,-5.108222 c -0.61736,5.252861 0.27164,9.486194 -2.77636,12.54125 -13.70894,13.754806 -32.43086,32.5755002 -34.925,39.8321392 8.37847,-1.59455559 32.07809,-25.9926672 42.21339,-31.6018332 5.22464,-2.896306 12.30489,-0.504473 19.99545,0.635 l -12.49187,-10.911417 1.06539,-1.520472 c 4.20159,-4.54025 11.43,-3.757084 14.6932,0.123472 0.17286,-1.964972 1.91558,-5.616222 3.78178,-6.462889 -2.7305,-4.289778 -5.87728,-6.00075 -9.22162,-6.057195 z" />
+      <path
+         id="path38"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.352778"
+         d="m 231.83943,-52.464375 v -8.875889 l 5.86316,-4.501445 5.86317,4.501445 v 8.875889 l -5.86317,-4.501445 z" />
+      <path
+         id="path48"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.352778"
+         d="m 276.45876,-52.464375 v -8.875889 l 5.86317,-4.501445 5.86316,4.501445 v 8.875889 l -5.86316,-4.501445 z" />
+    </g>
+  </g>
+  <g
+     inkscape:label="jeli-amiri-192"
+     inkscape:groupmode="layer"
+     id="g163"
+     style="display:none"
+     transform="matrix(0.19200001,0,0,0.19200001,29.873502,8.5513413)">
+    <text
+       xml:space="preserve"
+       style="font-size:194.423px;display:inline;fill:#000000;fill-opacity:1;stroke-width:16.202"
+       x="26.336414"
+       y="144.63924"
+       id="text157"
+       transform="scale(0.9518934,1.0505378)"
+       inkscape:label="jeli-dark"
+       inkscape:export-filename="../jeli_react/public/192d.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         id="tspan155"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Amiri;-inkscape-font-specification:Amiri;fill:#000000;fill-opacity:1;stroke-width:16.202"
+         x="26.336414"
+         y="144.63924"
+         sodipodi:role="line">جلي</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:194.423px;display:none;fill:#ffffff;fill-opacity:1;stroke-width:16.202"
+       x="26.336414"
+       y="144.63924"
+       id="text161"
+       transform="scale(0.9518934,1.0505378)"
+       inkscape:label="jeli-light"
+       inkscape:export-filename="../jeli_react/public/192l.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         id="tspan159"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Amiri;-inkscape-font-specification:Amiri;fill:#ffffff;fill-opacity:1;stroke-width:16.202"
+         x="0"
+         y="0"
+         sodipodi:role="line">جلي</tspan></text>
+  </g>
+  <g
+     inkscape:label="jeli-amiri-512"
+     inkscape:groupmode="layer"
+     id="g173"
+     style="display:none"
+     transform="matrix(0.51200003,0,0,0.51200003,18.042411,5.1646712)">
+    <text
+       xml:space="preserve"
+       style="font-size:194.423px;display:none;fill:#000000;fill-opacity:1;stroke-width:16.202"
+       x="26.336414"
+       y="144.63924"
+       id="text167"
+       transform="scale(0.9518934,1.0505378)"
+       inkscape:label="jeli-dark"
+       inkscape:export-filename="../jeli_react/public/512d.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         id="tspan165"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Amiri;-inkscape-font-specification:Amiri;fill:#000000;fill-opacity:1;stroke-width:16.202"
+         x="0"
+         y="0"
+         sodipodi:role="line">جلي</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:194.423px;display:none;fill:#ffffff;fill-opacity:1;stroke-width:16.202"
+       x="26.336414"
+       y="144.63924"
+       id="text171"
+       transform="scale(0.9518934,1.0505378)"
+       inkscape:label="jeli-light"
+       inkscape:export-filename="../jeli_react/public/512l.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         id="tspan169"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Amiri;-inkscape-font-specification:Amiri;fill:#ffffff;fill-opacity:1;stroke-width:16.202"
+         x="0"
+         y="0"
+         sodipodi:role="line">جلي</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="curved-135"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:35.2778px;font-family:'Noto Sans Oriya UI';-inkscape-font-specification:'Noto Sans Oriya UI';text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round"
+       id="text2335"
+       inkscape:label="jeli.com.my-dark"><textPath
+         xlink:href="#path2323"
+         startOffset="50%"
+         id="textPath2341"><tspan
+           id="tspan2331"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;font-family:'Comic Sans';-inkscape-font-specification:'Comic Sans';fill:#000000;fill-opacity:1;stroke-width:5.29167">jeli.com.my</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:35.2778px;font-family:'Noto Sans Oriya UI';-inkscape-font-specification:'Noto Sans Oriya UI';text-align:center;text-anchor:middle;display:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round"
+       id="text870"
+       inkscape:label="jeli.com.my-light"><textPath
+         xlink:href="#path2323"
+         startOffset="50%"
+         id="textPath868"><tspan
+           id="tspan866"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;font-family:'Comic Sans';-inkscape-font-specification:'Comic Sans';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.29167">jeli.com.my</tspan></textPath></text>
+  </g>
+  <circle
+     style="display:none;fill:#160c28;stroke-width:12.1903;stroke-linecap:round;stroke-linejoin:round"
+     id="path289"
+     cx="142.875"
+     cy="142.875"
+     r="132.29167"
+     inkscape:label="circle" />
+  <circle
+     style="display:none;fill:none;stroke:#000000;stroke-width:6.77632;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     id="path1252"
+     cx="142.875"
+     cy="142.875"
+     r="128.9035"
+     inkscape:label="fullcircle" />
+  <rect
+     style="display:none;fill:#160c28;fill-opacity:1;stroke:none;stroke-width:23.2938;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     id="rect1438"
+     width="264.58334"
+     height="264.58334"
+     x="10.583334"
+     y="10.583334"
+     inkscape:label="full" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="jeli.com.my"
+     style="display:none">
+    <path
+       id="rect1492"
+       style="display:none;fill:#160c28;fill-opacity:1;stroke:none;stroke-width:16.4712;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       inkscape:label="jeli.com.my-path"
+       d="M 142.875,142.875 V 275.16667 A 132.29167,132.29167 0 0 0 275.16667,142.875 Z" />
+    <path
+       id="path2323"
+       style="display:none;fill:#00ff00;stroke-width:0.750555;stroke-linecap:round;stroke-linejoin:round"
+       d="M 62.297448,55.221497 A 119.0625,119.0625 0 0 0 55.221483,223.45254 119.0625,119.0625 0 0 0 223.45254,230.52852 119.0625,119.0625 0 0 0 230.5285,62.297447 119.0625,119.0625 0 0 0 62.297448,55.221497 Z"
+       inkscape:label="circle" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="url-flowy"
+     style="display:none">
+    <path
+       style="display:none;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 141.37149,164.24379 c 5.51034,0.44413 22.78526,6.95282 47.95946,-4.1626 34.85635,-16.93084 37.63945,-13.9882 51.15347,-13.95406"
+       id="path2410"
+       sodipodi:nodetypes="ccc"
+       inkscape:label="flowy" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.6389px;font-family:'Noto Sans Oriya UI';-inkscape-font-specification:'Noto Sans Oriya UI';text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round"
+       id="text3085"
+       inkscape:label="jeli.com.my-flowy"><textPath
+         xlink:href="#path2410"
+         startOffset="50%"
+         id="textPath3197"
+         style="display:inline"><tspan
+           id="tspan3081"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;font-family:'Comic Sans';-inkscape-font-specification:'Comic Sans';fill:#000000;fill-opacity:1;stroke-width:5.29167">jeli.com.my</tspan></textPath></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="url-flowy-top"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;font-family:'Noto Sans Oriya UI';-inkscape-font-specification:'Noto Sans Oriya UI';text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round"
+       id="text3206"
+       inkscape:label="jeli.com.my"><textPath
+         xlink:href="#path3200"
+         startOffset="50%"
+         id="textPath3214"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Comic Sans';-inkscape-font-specification:'Comic Sans';fill:#000000;fill-opacity:1;stroke-width:5.29167">jeli.com.my</textPath></text>
+    <path
+       style="display:none;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 182.81764,86.979273 c 27.63942,15.848147 52.763,28.058477 65.72813,22.688027"
+       id="path3200"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
