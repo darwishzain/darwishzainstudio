@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="diffculty.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.32"
+     inkscape:cx="284.375"
+     inkscape:cy="801.5625"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.9167px;font-family:Silkscreen;-inkscape-font-specification:Silkscreen;text-align:end;text-anchor:end;fill:#444448;stroke-width:2.64583;stroke-linejoin:round"
+       x="196.36507"
+       y="43.4669"
+       id="text262"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.9167px;font-family:Silkscreen;-inkscape-font-specification:Silkscreen;fill:#000000;fill-opacity:0.979068;stroke-width:2.64583"
+         x="196.36507"
+         y="43.4669"
+         id="tspan1106">Difficulty:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.9167px;font-family:Silkscreen;-inkscape-font-specification:Silkscreen;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.979068;stroke-width:2.64583;stroke-linejoin:round"
+       x="-108.73914"
+       y="94.805695"
+       id="text1121"><tspan
+         sodipodi:role="line"
+         id="tspan1119"
+         style="stroke-width:2.64583;text-anchor:start;text-align:start"
+         x="188.9173"
+         y="94.805695">Easy</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:2.64583;text-anchor:start;text-align:start"
+         x="188.9173"
+         y="160.95157"
+         id="tspan1123">Normal</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:2.64583;text-anchor:start;text-align:start"
+         x="188.9173"
+         y="227.09744"
+         id="tspan1125">Hard</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:2.64583;text-anchor:start;text-align:start"
+         x="188.91731"
+         y="293.24332"
+         id="tspan1127">Kelantan</tspan></text>
+  </g>
+</svg>
